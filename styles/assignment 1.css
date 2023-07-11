@@ -236,7 +236,7 @@
 }
 
 
-.deals-email{
+.deals-email {
     /* padding: 290px 965px 0px 310px; */
     display: flex;
     align-items: center;
@@ -245,7 +245,7 @@
 }
 
 
-.email{
+.email {
     width: 700px;
     height: 64px;
     border-radius: 8px;
@@ -260,5 +260,76 @@
 
 
 
+.footer {
+    width: 1922px;
+    height: 449px;
+    background: #111010;
+}
 
-    
+.footer-heading {
+    color: #E55473;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-top: 130px;
+}
+
+.footer-description {
+    display: flex;
+    width: 625px;
+    flex-direction: column;
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+    /* margin-top: 140px; */
+    padding-top: -50px;
+    /* align-items: center; */
+    padding-left: 650px;
+}
+
+.footer-all {
+    text-align: center;
+    /* margin-top: 120px; */
+}
+
+.shop {
+    color: white;
+}
+
+.off {
+    color: #E55473;
+}
+
+.btn-secondery {
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    margin-left: 240px;
+    align-items: flex-start;
+    /* gap: 10px; */
+    border: none;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    /* padding-right: 290px; */
+    margin-right: 400px;
+}
+
+.footer-end {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
