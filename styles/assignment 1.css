@@ -109,9 +109,9 @@
     font-style: normal;
     font-weight: 800;
     line-height: normal;
-    margin: 0px auto;
+    /* margin: 0px auto; */
     padding-left: 50px;
-    position: static;
+    
     
 }
 
